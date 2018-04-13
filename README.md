@@ -1,4 +1,4 @@
-# Atom
+# Slack
 
 Adds the Slack yum repository and installs Slack.
 
